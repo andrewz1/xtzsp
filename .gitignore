@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+vendor/
+
+Gopkg.lock
+
+.gitlab-ci.yml
+Dockerfile
+
+xtzsp
